@@ -9,9 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>WebService</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Aplicação de Web Service - Sorte Grande</h1>
+        <a href="./WS_SorteGrande?wsdl">Acessar WSDL</a>
     </body>
 </html>
